@@ -112,4 +112,7 @@ This is a link to the demo video:
 - Use Postman or cURL to manually test API endpoints
 - If any error occurs, check server logs (backend) or browser console (frontend)
 
+# Salary Expectations per month
+800 - 1500
+
 This Task Management Application is now ready. If you face any issues, feel free to open an issue in the forked repository.
